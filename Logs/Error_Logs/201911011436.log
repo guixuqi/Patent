@@ -1,0 +1,4 @@
+2019-11-01 14:38:05,762 - root - ERROR - EIP_files  - 105 - 455302700-3导出失败:Alert Text: flase|数据导出失败,系统查询出的9阶条码数量为0，不等于PO455302700-3需求数:308
+Message: unexpected alert open: {Alert text : flase|数据导出失败,系统查询出的9阶条码数量为0，不等于PO455302700-3需求数:308}
+  (Session info: chrome=78.0.3904.87)
+
