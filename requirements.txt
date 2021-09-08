@@ -29,7 +29,7 @@ mitmproxy==5.0.0
 MouseInfo==0.1.2
 numpy==1.17.3
 passlib==1.7.2
-Pillow==6.2.1
+Pillow==8.3.2
 protobuf==3.10.0
 publicsuffix2==2.20190812
 pyasn1==0.4.8
