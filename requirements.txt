@@ -25,7 +25,7 @@ Keras-Preprocessing==1.1.0
 ldap3==2.6.1
 lxml==4.4.1
 MarkupSafe==1.1.1
-mitmproxy==5.0.0
+mitmproxy==8.0.0
 MouseInfo==0.1.2
 numpy==1.17.3
 passlib==1.7.2
