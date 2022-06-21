@@ -27,7 +27,7 @@ lxml==4.4.1
 MarkupSafe==1.1.1
 mitmproxy==5.0.0
 MouseInfo==0.1.2
-numpy==1.17.3
+numpy==1.22.0
 passlib==1.7.2
 Pillow==6.2.1
 protobuf==3.10.0
