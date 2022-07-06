@@ -23,7 +23,7 @@ Keras==2.3.1
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 ldap3==2.6.1
-lxml==4.4.1
+lxml==4.9.1
 MarkupSafe==1.1.1
 mitmproxy==5.0.0
 MouseInfo==0.1.2
