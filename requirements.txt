@@ -3,7 +3,7 @@ asn1crypto==1.2.0
 autogui==0.1.8
 blinker==1.4
 Brotli==1.0.7
-certifi==2019.9.11
+certifi==2022.12.7
 cffi==1.13.2
 chardet==3.0.4
 Click==7.0
